@@ -16,3 +16,8 @@ jobs:
         with:
           config_timezone: Asia/Kolkata
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.habits.facts.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
