@@ -14,4 +14,5 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Asia/Kolkata
           token: ${{ secrets.METRICS_TOKEN }}
