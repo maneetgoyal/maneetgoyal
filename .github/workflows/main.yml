@@ -15,6 +15,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           config_timezone: Asia/Kolkata
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Asia/Kolkata
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.habits.facts.svg
           base: ""

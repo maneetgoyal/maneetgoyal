@@ -1,5 +1,5 @@
 ---
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.classic.svg)
 ---
 ![Habits](/metrics.plugin.habits.facts.svg)
 ---
