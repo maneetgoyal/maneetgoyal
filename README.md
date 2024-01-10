@@ -1,8 +1,8 @@
-![Metrics](/metrics.classic.svg)
+Achievements             |  Blogs
+:-------------------------:|:-------------------------:
+![Metrics](/metrics.classic.svg) |  ![Blogs Calendar](/metrics.plugin.posts.full.svg)
 ---
-Solarized dark             |  Solarized Ocean
+Achievements             |  Commits
 :-------------------------:|:-------------------------:
  ![Achievements](/metrics.plugin.achievements.svg) |  ![Commits Calendar](/metrics.plugin.isocalendar.fullyear.svg)
----
-![Blogs Calendar](/metrics.plugin.posts.full.svg)
 ---
