@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_reactions: yes
-          plugin_reactions_limit: 100
+          plugin_reactions_limit: 1000
           plugin_reactions_details: percentage
       - uses: lowlighter/metrics@latest
         with:
