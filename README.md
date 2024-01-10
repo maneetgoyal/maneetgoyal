@@ -1,4 +1,4 @@
-Achievements             |  Blogs
+General             |  Blogs
 :-------------------------:|:-------------------------:
 ![Metrics](/metrics.classic.svg) |  ![Blogs Calendar](/metrics.plugin.posts.full.svg)
 ---
