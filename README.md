@@ -1,8 +1,4 @@
-General
-
 ![Metrics](/metrics.classic.svg)
-
-Blogs
 
 ![Blogs Calendar](/metrics.plugin.posts.full.svg)
 
