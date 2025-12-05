@@ -27,8 +27,6 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          uses: lowlighter/metrics@latest
-          name: Compact display
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
