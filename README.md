@@ -4,5 +4,5 @@
 
 Achievements             |  Commits
 :-------------------------:|:-------------------------:
- ![Achievements](/metrics.plugin.achievements.svg) |  ![Commits Calendar](/metrics.plugin.isocalendar.fullyear.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maneetgoyal)](https://github.com/ryo-ma/github-profile-trophy) |  ![Commits Calendar](/metrics.plugin.isocalendar.fullyear.svg)
 ---
