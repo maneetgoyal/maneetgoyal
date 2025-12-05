@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=maneetgoyal)
+
 ![Metrics](/metrics.classic.svg)
 
 ![Blogs Calendar](/metrics.plugin.posts.full.svg)
